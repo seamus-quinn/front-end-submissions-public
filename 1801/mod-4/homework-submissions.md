@@ -147,7 +147,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
     * Challenge #2: show pics of sunsets if client makes a get request to /sunsets
     * Challenge #1: Added a button that changed the background color of the button when clicked
 * [Promise Practice Exercises](https://gist.github.com/seamus-quinn/2b21edeeb9c4321092bdb422d4dbf565)
-* [House of Vars Blog Post]()
+* [House of Vars Blog Post](https://medium.com/@sumaesquinn/another-blog-post-6532d9d34039)
 * [Websockets Tutorial]() - What additional items did you work on?
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
