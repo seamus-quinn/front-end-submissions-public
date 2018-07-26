@@ -149,8 +149,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Promise Practice Exercises](https://gist.github.com/seamus-quinn/2b21edeeb9c4321092bdb422d4dbf565)
 * [House of Vars Blog Post](https://medium.com/@sumaesquinn/another-blog-post-6532d9d34039)
 * [Websockets Tutorial]() - What additional items did you work on?
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [Pattern Party Repo](https://github.com/seamus-quinn/pattrn-party)
+* [Pattern Party GitHub Pages](https://seamus-quinn.github.io/pattrn-party/)
 
 ### Steph Ospina
 
